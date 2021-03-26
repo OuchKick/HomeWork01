@@ -23,13 +23,6 @@ Short view of the changes made to the CSS Code.
 
 
 
-
-## Quick View 
-
-
-![Alt Text](https://im7.ezgif.com/tmp/ezgif-7-e39bb72a6be7.gif)
-
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
